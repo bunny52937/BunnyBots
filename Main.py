@@ -9,7 +9,7 @@ import asyncio
 import time
 
 # --- KONFIGURATION ---
-BOT_TOKEN = "DEIN_BOT_TOKEN_HIER"
+BOT_TOKEN = "MTQ3NzM3MjY3MDczMDU3MTg4OQ.G_p1xq.oq2est_Q4Ff2udnL3qb11e7TWklvtfg_F44EwI"
 
 # Nuke-Einstellungen
 CHANNEL_NAME = "nuked"
